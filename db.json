@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "nomePais": "Mexico",
+      "nomeLocal": "Cidade do México ",
+      "nomeMeta": "03/2023",
+      "flag": "https://restcountries.eu/data/mex.svg",
+      "id": 26
+    },
+    {
+      "nomePais": "Colombia",
+      "nomeLocal": "Bogotá",
+      "nomeMeta": "12/2021",
+      "flag": "https://restcountries.eu/data/col.svg",
+      "id": 27
+    },
+    {
+      "nomePais": "Argentina",
+      "nomeLocal": "Buenos Aires ",
+      "nomeMeta": "01/2023",
+      "flag": "https://restcountries.eu/data/arg.svg",
+      "id": 34
+    },
+    {
+      "nomePais": "Brazil",
+      "nomeLocal": "Búzios",
+      "nomeMeta": "02/2024",
+      "flag": "https://restcountries.eu/data/bra.svg",
+      "id": 35
+    },
+    {
+      "nomePais": "Canada",
+      "nomeLocal": "Toronto ",
+      "nomeMeta": "04/2022",
+      "flag": "https://restcountries.eu/data/can.svg",
+      "id": 36
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
